@@ -1,0 +1,12 @@
+div#container {
+  /* background-image: url("/picture2.jpg"); */
+  max-width: 84%;
+  height: 100%;
+  /* Center and scale the image nicely */
+}
+body {
+  height: 100%;
+}
+html {
+  height: 100%;
+}
